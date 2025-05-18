@@ -71,6 +71,7 @@
     <Content Include="Images\forest.jpg" />
     <Content Include="Images\mountains.jpg" />
     <Content Include="Images\ocean.jpg" />
+    <Content Include="Images\Sunset.jpg" />
     <Content Include="index.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>

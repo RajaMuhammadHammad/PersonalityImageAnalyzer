@@ -32,5 +32,10 @@ namespace PersonalityImageAnalyzer
         {
             lblResult.Text = "🏜️ You are independent, adventurous, and value personal freedom.";
         }
+
+        protected void ImageButton5_Click(object sender, ImageClickEventArgs e)
+        {
+            lblResult.Text = "You are a calm and reflective person who enjoys beauty and serenity.";
+        }
     }
 }

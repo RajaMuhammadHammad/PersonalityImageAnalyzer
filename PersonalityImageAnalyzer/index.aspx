@@ -75,6 +75,8 @@
             <asp:ImageButton ID="ImageButton2" runat="server" ImageUrl="~/Images/ocean.jpg" ToolTip="Ocean" OnClick="ImageButton2_Click" />
             <asp:ImageButton ID="ImageButton3" runat="server" ImageUrl="~/Images/mountains.jpg" ToolTip="Mountains" OnClick="ImageButton3_Click" />
             <asp:ImageButton ID="ImageButton4" runat="server" ImageUrl="~/Images/desert.jpg" ToolTip="Desert" OnClick="ImageButton4_Click" />
+            <asp:ImageButton ID="ImageButton5" runat="server" ImageUrl="~/Images/Sunset.jpg" OnClick="ImageButton5_Click" />
+
         </div>
 
         <div class="result">
